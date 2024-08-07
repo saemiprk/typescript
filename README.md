@@ -1,4 +1,4 @@
-# typescript 연습예제
+# typescript 기본 개념
 
 ### 01. 개론
 ### 02. 기본
